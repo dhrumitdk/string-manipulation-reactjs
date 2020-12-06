@@ -1,0 +1,12 @@
+.Output {
+  width: 300px;
+  margin-top: 20px;
+}
+
+.Output b {
+  font-size: 14px;
+}
+
+.Output p {
+  margin-top: 5px;
+}
